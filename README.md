@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAMANTA</h1>
 <h3 align="center">A passionate SOFTWARE ENGINEER from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwMjQyMjcsIm5iZiI6MTcwODAyMzkyNywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE1VDE5MDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjYTAzNWVhNTQyZGU2ZTM0YmI0YjNlNmM5ODcxMWU2YTNiZmI2MjM1ZTI5MjlkNWE4MzQzZjI1NTc3NTAwZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ng3PEMUzoIra-dpQRPPbOJ69EsvUoKarCjERDOTBaS0](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanta-1511&label=Profile%20views&color=0e75b6&style=flat" alt="samanta-1511" /> </p>
 
